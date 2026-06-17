@@ -1,0 +1,23 @@
+{
+  "name": "amar-business-threejs-viewer",
+  "version": "1.0.0",
+  "description": "Interactive 3D product viewer using Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "http-server ."
+  },
+  "keywords": [
+    "three.js",
+    "3d",
+    "product-viewer",
+    "interactive",
+    "bengali"
+  ],
+  "author": "Subhas Samanta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subhas2025samanta-stack/Subhass-samanta-.git"
+  }
+}
